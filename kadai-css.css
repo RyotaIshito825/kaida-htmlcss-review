@@ -1,0 +1,34 @@
+header {
+    background-color: #ffcccc;
+}
+
+header > p {
+    margin: 0;
+}
+
+#wrapper {
+    display: flex;
+}
+
+#main {
+    background-color: #ccffcc;
+    width: 700px;
+}
+
+#menu {
+    background-color: #ccccff;
+    width: 300px;
+}
+
+footer {
+    background-color: #ffccff;
+}
+
+footer > p {
+    margin: 0;
+}
+
+header,
+footer {
+    width: 1000px;
+}
